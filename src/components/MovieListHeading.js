@@ -1,4 +1,6 @@
 import React from 'react';
+import '../components/movie-list.css';
+
 
 const MovieListHeading = (props) => {
 	return (

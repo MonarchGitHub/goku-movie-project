@@ -1,9 +1,18 @@
 body {
-	background: #141414;
+	background: #9a3ea4;
 	color: #ffffff;
 }
 
-.movie-app > .row {
+/* .movie-app {
+	display: flex;
+	flex-direction: row;
+	border: 2px solid black;
+	justify-content: center;
+	align-items: center;
+	justify-self: center;
+} */
+
+.movie-app>.row {
 	overflow-x: auto;
 	flex-wrap: nowrap;
 }
